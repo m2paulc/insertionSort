@@ -1,0 +1,14 @@
+{
+  "name": "insertionsort",
+  "version": "1.0.0",
+  "description": "insertion Sort",
+  "main": "insertionSort.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "sort"
+  ],
+  "author": "Paul C",
+  "license": "ISC"
+}
